@@ -1,0 +1,23 @@
+{
+  "name": "watch",
+  "version": "0.0.1",
+  "description": "Watch is a IONDV. Framework module",
+  "scripts": {
+  },
+  "engines": {
+    "ion": "3.0.0"
+  },
+  "author": "akumidv",
+  "dependencies": {
+
+  },
+  "homepage": "https://github.com/iondv/watch",
+  "bugs": {
+    "url": "https://github.com/iondv/watch/issues"
+  },
+  "license": "Apache License 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iondv/watch.git"
+  }
+}
